@@ -1,0 +1,15 @@
+Run this in your cmd ::  pip install ultralytics opencv-python numpy dxcam pygetwindow vgamepad
+
+
+This is what I used expanded
+  
+pip install ultralytics
+pip install torch
+pip install opencv-python
+pip install numpy
+pip install dxcam
+pip install pygetwindow
+pip install vgamepad
+
+You could also do "pip install mss pillow" but its not necessary.
+  
